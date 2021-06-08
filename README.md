@@ -5,3 +5,4 @@
 
 
 #epoch = 20
+![Result(epoch = 20)](https://user-images.githubusercontent.com/81296798/121176540-48af5880-c897-11eb-999c-8dba3571678d.PNG)
