@@ -17,6 +17,7 @@
 # -----------------------------------------------------------------
 # Model = 3
 # epoch = 5
+![model_3_epoch=5](https://user-images.githubusercontent.com/81296798/121809022-1d14df80-cc96-11eb-9b3f-de232a08d681.PNG)
 
 
 # epoch = 20
