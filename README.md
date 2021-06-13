@@ -12,6 +12,7 @@
 ![model_2_epoch=5](https://user-images.githubusercontent.com/81296798/121808577-0ff6f100-cc94-11eb-96d9-af76d383cb3f.PNG)
 
 # epoch = 20
+![model_2_epoch=20](https://user-images.githubusercontent.com/81296798/121808841-5f89ec80-cc95-11eb-8326-faf5d3b5f60e.PNG)
 
 # ------------------------------------------------------------------------------
 # Model = 3
